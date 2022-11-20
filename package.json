@@ -3,5 +3,10 @@
   "version": "0.0.0",
   "description": "Website https://www.weltspiegel-cottbus.de",
   "scripts": {
+    "log": "changeset"
+  },
+  "dependencies": {
+    "@changesets/changelog-github": "^0.4.7",
+    "@changesets/cli": "^2.25.2"
   }
 }
