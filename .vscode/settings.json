@@ -1,7 +1,13 @@
 {
+  "editor.quickSuggestions": {
+    "strings": true
+  },
   "eslint.workingDirectories": [
     { "pattern": "apps/*/" },
   ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
   "typescript.tsdk": "node_modules\\.pnpm\\typescript@4.9.3\\node_modules\\typescript\\lib",
   "typescript.enablePromptUseWorkspaceTsdk": true
 }
