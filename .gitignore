@@ -1,6 +1,9 @@
 # NPM deps
 node_modules/
 
+# Turbo
+.turbo/
+
 # Next.js
 .next/
 next-env.d.ts
